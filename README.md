@@ -1,2 +1,3 @@
-### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=D7C0DC&height=120&section=header&text=텍스트&fontSize=70" />
+### Hi there 👋, I'm Jun Hyung!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjh919&show_icons=true&theme=radical)
