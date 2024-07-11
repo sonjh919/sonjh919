@@ -5,7 +5,7 @@
           <a href="mailto:kingjh1125@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
           <a href="https://www.linkedin.com/in/junhyung-son" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=Linkedin&logoColor=white"/></a>
           <a href="https://publish.obsidian.md/sonjh919" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=Blog&logoColor=white&link=https://publish.obsidian.md/sonjh919"/></a>
-          <a href="https://docs.google.com/document/d/1tV2ofR8FgXlGiiexLpAVnYki_MiKn3ACeiN27Myg7Mw/edit?usp=sharing">
+          <a href="https://docs.google.com/document/d/e/2PACX-1vTfcZw3xttk0NEPdxBeY_jczYyTUEZuWFhS-5x4kPXqNeubjixrXf3Xtnj_OwKWb5zmOtTtZxkROxQP/pub">
                <img src="https://img.shields.io/badge/RESUME-%231976D2.svg?logo=googledocs&logoColor=white&link=https://docs.google.com/document/d/e/2PACX-1vSssG50XnqXTEBetSQBQ-mIeDexC7ahnViIor2uTAPUx4MJVwXervNgYe-T2LpTys0WlDmoC-WcRXtA/pub"/>
           </a>
      </span>
