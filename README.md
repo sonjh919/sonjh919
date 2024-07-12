@@ -35,7 +35,7 @@
 </div>
 <div>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjh919&show_icons=true&theme=default) -->
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=sonjh919&show_icons=true&theme=github_dark">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=sonjh919&show_icons=true&hide_border=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjh919&hide_border=true&layout=compact&theme=github_dark">  
 </div>
 
