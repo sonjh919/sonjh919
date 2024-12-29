@@ -5,6 +5,11 @@
 
 <br><br><br>
 
+<img height="180em" src ="https://github-readme-stats-three-lake-71.vercel.app/api?username=sonjh919&show_icons=true&hide_border=true&theme=github_dark&title_color=EA5413&icon_color=c3d1d9">
+<img height="180em" src="https://github-readme-stats-three-lake-71.vercel.app/api/top-langs/?username=sonjh919&hide_border=true&layout=compact&theme=github_dark&title_color=EA5413">  
+
+<br><br><br>
+
 </div>
 
 <div align="left">
@@ -42,25 +47,11 @@
       </p>
 </div>
 <hr>
-<div>
-       <img height="180em" src ="https://github-readme-stats-three-lake-71.vercel.app/api?username=sonjh919&show_icons=true&hide_border=true&theme=github_dark">
-       <img height="180em" src="https://github-readme-stats-three-lake-71.vercel.app/api/top-langs/?username=sonjh919&hide_border=true&layout=compact&theme=github_dark">  
-</div>
-<hr>
 <br>
 <div>
      <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh1125">
 </div>
 
-<!--
-  <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/kingjh1125">
-    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh1125">
-    <img height="180em" src="http://mazandi.herokuapp.com/api?handle=kingjh1125&theme=dark">
-  </a>
--->
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonjh)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)-->
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh1125)](https://solved.ac/kingjh1125)-->
 <hr>
 <div>
      <a href="https://github.com/devxb/gitanimals">
@@ -70,7 +61,7 @@
 
 <div align="right">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonjh919&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonjh919&count_bg=%2379C83D&title_bg=%%23EA5413&icon=&icon_color=%23EA5413&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
