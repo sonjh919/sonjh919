@@ -55,7 +55,11 @@
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh1125)](https://solved.ac/kingjh1125)-->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sonjh919"/>
+<img
+  src="https://render.gitanimals.org/farms/sonjh919"
+  width="600"
+  height="300"
+/>
 </a>
 
 <div align="right">
