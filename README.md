@@ -7,13 +7,20 @@
 
 <img height="180em" src ="https://github-readme-stats-three-lake-71.vercel.app/api?username=sonjh919&show_icons=true&hide_border=true&theme=github_dark&title_color=EA5413&icon_color=c3d1d9">
 <img height="180em" src="https://github-readme-stats-three-lake-71.vercel.app/api/top-langs/?username=sonjh919&hide_border=true&layout=compact&theme=github_dark&title_color=EA5413">  
+<img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh1125">
+<a href="https://github.com/devxb/gitanimals">
+          <img height="180em" src="https://render.gitanimals.org/farms/sonjh919"/>
+</a>
 
 <br><br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonjh919&count_bg=%23EA5413&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 </div>
 
 <div align="left">
-     <h3>Contact</h3>
+     <br><br><br>
+     <p>$\it{\large{\color{#EA5413}Contact}}$</p>
      <span>
           <a href="mailto:kingjh1125@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
           <a href="https://www.linkedin.com/in/junhyung-son" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=Linkedin&logoColor=white"/></a>
@@ -23,9 +30,9 @@
           </a>
      </span>
 </div>
-<hr>
 <div>
-  <h4>Backend</h4>
+     <br><br><br>
+     <p>$\it{\large{\color{#EA5413}Studying..}}$</p>
      <p>
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"/>
 <!--           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> -->
@@ -33,36 +40,16 @@
           <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
           <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
      </p>
-  <h4>Devops</h4>
       <p>
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
           <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
           <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
           <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=/Grafana&logoColor=white"/>
      </p>
-  <h4>Database</h4>
       <p>
         <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
           <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
       </p>
-</div>
-<hr>
-<br>
-<div>
-     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh1125">
-</div>
-
-<hr>
-<div>
-     <a href="https://github.com/devxb/gitanimals">
-          <img src="https://render.gitanimals.org/farms/sonjh919"/>
-     </a>
-</div>
-
-<div align="right">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonjh919&count_bg=%2379C83D&title_bg=%%23EA5413&icon=&icon_color=%23EA5413&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 </div>
 
 
