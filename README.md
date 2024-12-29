@@ -1,5 +1,13 @@
+<div align="center">
+<br><br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=EA5413&size=35&pause=1000&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JunHyung.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br><br>
+
+</div>
+
 <div align="left">
-     <h1>Hi there 👋, I'm Jun Hyung!</h1>
      <h3>Contact</h3>
      <span>
           <a href="mailto:kingjh1125@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
