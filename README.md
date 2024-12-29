@@ -53,14 +53,16 @@
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonjh)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)-->
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh1125)](https://solved.ac/kingjh1125)-->
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/sonjh919"
-  width="600"
-  height="300"
-/>
-</a>
+<hr>
+<div>
+     <a href="https://github.com/devxb/gitanimals">
+     <img
+       src="https://render.gitanimals.org/farms/sonjh919"
+       width="600"
+       height="300"
+     />
+     </a>
+</div>
 
 <div align="right">
   
