@@ -27,9 +27,9 @@
           <a href="https://www.linkedin.com/in/junhyung-son" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=Linkedin&logoColor=white"/></a>
           <a href="https://publish.obsidian.md/sonjh919" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=Blog&logoColor=white&link=https://publish.obsidian.md/sonjh919"/></a>
           <!--<a href="https://velog.io/@sonjh919/posts" target="_blank"><img src="https://img.shields.io/badge/-VELOG-20c997?logo=Blog&logoColor=white&link=https://publish.obsidian.md/sonjh919"/></a>-->
-          <a href="https://docs.google.com/document/d/e/2PACX-1vTXNC_ze6iVFi4_fhG4JtNtGaQS2gXRW8S5B4muVOMKx4wliZHers3_VOZjvHO4EycGj9G3qNw0EAfF/pub">
+<!--           <a href="https://docs.google.com/document/d/e/2PACX-1vTXNC_ze6iVFi4_fhG4JtNtGaQS2gXRW8S5B4muVOMKx4wliZHers3_VOZjvHO4EycGj9G3qNw0EAfF/pub">
                <img src="https://img.shields.io/badge/RESUME-%231976D2.svg?logo=googledocs&logoColor=white&link=https://docs.google.com/document/d/e/2PACX-1vTXNC_ze6iVFi4_fhG4JtNtGaQS2gXRW8S5B4muVOMKx4wliZHers3_VOZjvHO4EycGj9G3qNw0EAfF/pub"/>
-          </a>
+          </a> -->
      </span>
 </div>
 <div>
